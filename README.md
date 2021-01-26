@@ -1,5 +1,6 @@
 # DC-Drone
 8520 DC 모터와 아두이노를 활용한 최소 성능의 미니 드론입니다.
+
 <br>
 
 ## Parts
@@ -15,6 +16,7 @@
 - resistance ( )
 - capacitor ( )
 - PCB board (DIY)
+
 <br>
 
 ## Price
@@ -28,5 +30,6 @@ battery | 3$ | 1 | 3$ | |
 minor elements | 2$ | 1 | 2$ | |
 
 ### Total : **30$** !
+
 <br>
 
